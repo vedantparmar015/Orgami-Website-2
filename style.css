@@ -1,0 +1,11 @@
+
+
+.header{
+    color: darkblue;
+    justify-content: flex-end;
+}
+
+.grid{
+    background-color: fuchsia;
+    flex-direction: column;
+}
